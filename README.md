@@ -5,7 +5,7 @@
 
 - 📒 I’m currently learning **Javascript, React** and working on side projects.
 
-- 🤝🏻 I’m passionate about bridging the gap between design and development and look forward to collaborating to **Open source Projects** that revolves around Design.
+- 🤝🏻 I’m passionate about bridging the gap between design and development and look forward to collaborating to **Open source Projects**.
 
 - 🌎 I'm available for any Design or UI Engineer roles.
 
