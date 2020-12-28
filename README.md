@@ -11,7 +11,7 @@
 
 - 💬 Feel free to reach out: DM [@frankiefab100](https://twitter.com/frankiefab100)
 
-- 💯 Interests: **Open Source & Inclusive Design, Accessibility, User Experience, Design Systems, Human Computer Interaction and Web Animation**
+- 💯 Interests: **Open Source & Inclusive Design, Accessibility, User Experience, Design Systems, Human Computer Interaction and Web Animation**.
 
 - ⚡ Fun fact: I'm a diehard fan of Manchester United FC, obsessed with the French and Indian culture.
 
@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-<h3 align="left">🔗 Let's Connect:</h3>
+<h3 align="left"> Let's Connect:</h3>
 <a href="https://codepen.io/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@frankiefab100" height="30" width="40" /></a>
 <a href="https://dev.to/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@frankiefab100" height="30" width="40" /></a>
 <a href="https://twitter.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="frankiefab100" height="30" width="40" /></a>
