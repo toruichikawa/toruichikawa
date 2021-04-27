@@ -18,7 +18,13 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten (10) Reasons you should contribute to free and open source projects](https://frankiefab.hashnode.dev/ten-10-reasons-you-should-contribute-to-free-and-open-source-projects-ckhj55rzq00ud7ys193oid5ia)
+- [Web Optimization | An Overview of Search Engine Optimization](https://dev.to/frankiefab100/web-optimization-an-overview-of-search-engine-optimization-seo-4olk)
+
+➡️ [articles...](https://frankiefab.hashnode.dev)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 <p align="left">
 <h3 align="left"> Let's Connect:</h3>
