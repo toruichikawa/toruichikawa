@@ -1,9 +1,9 @@
 <h1 align="center">Salut 👋, I'm Franklin</h1>
-<h3 align="center">A Visual Designer and User Interface Developer</h3>
+<h3 align="center">A Multidisciplinary Designer and Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
-- 📒 I’m currently learning **Javascript, React** and working on side projects.
+- 📒 I’m currently learning **React, Solidity and Web3** and working on side projects.
 
 - 🤝🏻 I’m passionate about bridging the gap between design and development and look forward to collaborating to **Open source Projects**.
 
@@ -11,7 +11,7 @@
 
 - 💬 Feel free to reach out: DM [@frankiefab100](https://twitter.com/frankiefab100)
 
-- 💯 Interests: **Open Source & Inclusive Design, Accessibility, User Experience, Design Systems, Human Computer Interaction and Web Animation**.
+- 💯 Interests: **Open Source & Inclusive Design, Accessibility, User Experience, Design Systems, Human Computer Interaction, Web Animation and Blockchain technology**.
 
 - ⚡ Fun fact: I'm a diehard fan of Manchester United FC, obsessed with the French and Indian culture.
 
@@ -21,7 +21,7 @@
 - [Ten (10) Reasons you should contribute to free and open source projects](https://frankiefab.hashnode.dev/ten-10-reasons-you-should-contribute-to-free-and-open-source-projects-ckhj55rzq00ud7ys193oid5ia)
 - [Web Optimization | An Overview of Search Engine Optimization](https://dev.to/frankiefab100/web-optimization-an-overview-of-search-engine-optimization-seo-4olk)
 
-➡️ [articles...](https://frankiefab.hashnode.dev)
+➡️ [More articles...](https://frankiefab.hashnode.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
