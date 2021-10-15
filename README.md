@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
-- 📒 I’m currently learning **React, Solidity and Web3** and working on side projects.
+- 📒 I’m currently learning **ReactJS, NodeJS and Solidity ** and working on side projects.
 
 - 🤝🏻 I’m passionate about bridging the gap between design and development and look forward to collaborating to **Open source Projects**.
 
@@ -11,7 +11,7 @@
 
 - 💬 Feel free to reach out: DM [@frankiefab100](https://twitter.com/frankiefab100)
 
-- 💯 Interests: **Open Source & Inclusive Design, Accessibility, User Experience, Design Systems, Human Computer Interaction, Web Animation and Blockchain technology**.
+- 💯 Interests: **Open Source, Inclusive Design, Accessibility, User Experience, Design Systems, Human Computer Interaction, Web Animation and Blockchain technology**.
 
 - ⚡ Fun fact: I'm a diehard fan of Manchester United FC, obsessed with the French and Indian culture.
 
