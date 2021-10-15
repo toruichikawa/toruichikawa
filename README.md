@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
-- 📒 I’m currently learning **ReactJS, NodeJS and Solidity ** and working on side projects.
+- 📒 I’m currently learning **ReactJS, NodeJS and Solidity** and working on side projects.
 
 - 🤝🏻 I’m passionate about bridging the gap between design and development and look forward to collaborating to **Open source Projects**.
 
