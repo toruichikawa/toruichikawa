@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
-- 📒 I’m currently learning **ReactJS and Solidity** and working on side projects.
+- 📒 I’m currently learning **ReactJS, Solidity** and working on side projects.
 
-- 🤝🏻 I’m passionate about bridging the gap between design and development and also look forward to contributing to **Open Source Projects**.
+- 🤝🏻 I enjoy working on **Open Source Projects** utilizing my design and engineering skills.
 
-- 🌎 I'm available for any Design or UI Engineer roles.
+- 🌎 I'm open for UX Engineer or any related roles.
 
-- 💬 Feel free to reach out: DM [@frankiefab100](https://twitter.com/frankiefab100)
+- 💬 You can reach out to me [@frankiefab100](https://twitter.com/frankiefab100)
 
 - 💯 Interests: **Open Source, Inclusive Design, Accessibility, User Experience, Human Computer Interaction, Web Animation, IoT and Blockchain Technology**.
 
@@ -20,6 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ten (10) Reasons you should contribute to free and open source projects](https://frankiefab.hashnode.dev/ten-10-reasons-you-should-contribute-to-free-and-open-source-projects-ckhj55rzq00ud7ys193oid5ia)
 - [Web Optimization | An Overview of Search Engine Optimization](https://dev.to/frankiefab100/web-optimization-an-overview-of-search-engine-optimization-seo-4olk)
+- [First Timers Practical Guide to Open Source Contribution](medium.com/@frankiefab100/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79)
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
 <!-- BLOG-POST-LIST:END -->
