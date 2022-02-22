@@ -18,9 +18,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ten (10) Reasons you should contribute to free and open source projects](https://frankiefab.hashnode.dev/ten-10-reasons-you-should-contribute-to-free-and-open-source-projects-ckhj55rzq00ud7ys193oid5ia)
+- [Learn Blockchain Development By Playing Games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
 - [Web Optimization | An Overview of Search Engine Optimization](https://dev.to/frankiefab100/web-optimization-an-overview-of-search-engine-optimization-seo-4olk)
-- [First Timers Practical Guide to Open Source Contribution](medium.com/@frankiefab100/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79)
+- [First Timers Practical Guide to Open Source Contribution](https://medium.com/@frankiefab100/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79)
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
 <!-- BLOG-POST-LIST:END -->
