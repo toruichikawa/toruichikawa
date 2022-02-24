@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I'm a diehard fan of Manchester United FC, obsessed with the French and Indian culture.
 
-### Blogs posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn Blockchain Development By Playing Games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
@@ -38,7 +38,7 @@
 <a href="https://dribbble.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="frankiefab100" height="30" width="40" /></a>
 <a href="https://www.behance.net/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@frankiefab100" height="30" width="40" /></a>
 <a href="https://medium.com/@frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://frankiefab100.disha.page" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="frankiefab100 personal website" height="30" width="40" /></a>
+<a href="https://frankiefab.tech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="frankiefab100 personal website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
