@@ -9,7 +9,7 @@
 
 - 🌎 I'm open for UX Engineer or any related roles.
 
-- 💬 You can reach out to me [@frankiefab100](https://twitter.com/frankiefab100)
+- 💬 You can reach me [@frankiefab100](https://twitter.com/frankiefab100)
 
 - 💯 Interests: **Open Source, Inclusive Design, Accessibility, User Experience, Human Computer Interaction, Web Animation, IoT and Blockchain Technology**.
 
