@@ -1,51 +1,52 @@
-<h1 align="center">Salut 👋, I'm Franklin</h1>
-<h3 align="center">A Multidisciplinary Designer and Software Developer</h3>
+<p align="center">Gif Banner Here</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
-- 📒 I’m currently learning **ReactJS, Solidity** and working on side projects.
+I’m currently exploring new technologies and working on side projects. I'm passionate about working on and contributing to **Open Source Projects**. Aside this, I spent time doing fun stuffs like listening to music or podcast, playing indoor games, watching random online videos, visiting new places or learning a new language on Duolingo.
 
-- 🤝🏻 I enjoy working on **Open Source Projects** utilizing my design and engineering skills.
+<samp>Variety is the spice of life💯</samp>
 
-- 🌎 I'm open for UX Engineer or any related roles.
-
-- 💬 You can reach me [@frankiefab100](https://twitter.com/frankiefab100)
-
-- 💯 Interests: **Open Source, Inclusive Design, Accessibility, User Experience, Human Computer Interaction, Web Animation, IoT and Blockchain Technology**.
-
-- ⚡ Fun fact: I'm a diehard fan of Manchester United FC, obsessed with the French and Indian culture.
-
-### Blog posts
+### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Blockchain Development By Playing Games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
-- [Web Optimization | An Overview of Search Engine Optimization](https://dev.to/frankiefab100/web-optimization-an-overview-of-search-engine-optimization-seo-4olk)
-- [First Timers Practical Guide to Open Source Contribution](https://medium.com/@frankiefab100/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79)
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
+<h3 align="left">🤝🏻 Let's Connect</h3>
 <p align="left">
-<h3 align="left"> Let's Connect:</h3>
-<a href="https://codepen.io/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://dev.to/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://twitter.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="frankiefab100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://facebook.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://instagram.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://dribbble.com/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="frankiefab100" height="30" width="40" /></a>
-<a href="https://www.behance.net/frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://medium.com/@frankiefab100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@frankiefab100" height="30" width="40" /></a>
-<a href="https://frankiefab.netlify.app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="frankiefab100 personal website" height="30" width="40" /></a>
+ <a href="https://frankiefab.netlify.app" target="_blank"><img  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="frankiefab100 personal website" height="30" width="30" /></a>
+<a href="https://twitter.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="frankiefab100" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@frankiefab100" height="30" width="30" /></a>
+ <a href="https://dev.to/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@frankiefab100" height="30" width="30" /></a>
+ <a href="https://codepen.io/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@frankiefab100" height="30" width="30" /></a>
+<a href="https://instagram.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@frankiefab100" height="30" width="30" /></a>
+ <a href="https://facebook.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@frankiefab100" height="30" width="30" /></a>
+<a href="https://dribbble.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="frankiefab100" height="30" width="30" /></a>
+<a href="https://www.behance.net/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@frankiefab100" height="30" width="30" /></a>
+<a href="https://medium.com/@frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@frankiefab100" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.yarnpkg.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-<a href="https://hyper.is" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> </a>  <a href="https://www.npmjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> <a href="https://www.redux.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> <a href="https://wordpress.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/></a> <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/></a> </p>
+<h3 align="left">⚡ Technologies and Tools</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="30" height="30"/></a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="30" height="30"/></a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /></a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="30" height="30"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="30" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
+ <a href="https://www.yarnpkg.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="30" height="30"/>
+<a href="https://hyper.is" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="30" height="30"/> </a>  <a href="https://www.npmjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="30" height="30"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="30" height="30"/> </a> 
+ <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a>
+ <a href="https://www.markdownguide.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="markdown" width="30" height="30"/></a>
+ <a href="https://www.netlify.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="30" height="30"/></a>
+ <a href="https://www.tailwindcss.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30"/></a>
+ <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/></a>
+ <a href="https://wordpress.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="30" height="30"/></a> <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="30" height="30"/></a> </p>
+  <a href="https://ethereum.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="30" height="30"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankiefab100&show_icons=true" alt="frankiefab100" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=frankiefab100&show_icons=true" alt="frankiefab100" /></p>
+
 <a href="https://www.buymeacoffee.com/frankiefab100" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
