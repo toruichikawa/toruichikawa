@@ -1,5 +1,3 @@
-<p align="center">Gif Banner Here</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
 I’m currently exploring new technologies and working on side projects. I'm passionate about working on and contributing to **Open Source Projects**. Aside this, I spent time doing fun stuffs like listening to music or podcast, playing indoor games, watching random online videos, visiting new places or learning a new language on Duolingo.
