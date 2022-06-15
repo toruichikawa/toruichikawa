@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
+![GITHUB banner SMALL](https://user-images.githubusercontent.com/46662771/173787262-fe22d912-c99e-4ea3-94b7-6cbc78e8906a.jpg)
+
 I’m currently exploring new technologies and working on side projects. I'm passionate about working on and contributing to **Open Source Projects**. Aside this, I spent time doing fun stuffs like listening to music or podcast, playing indoor games, watching random online videos, visiting new places or learning a new language on Duolingo.
 
 <samp>Variety is the spice of life💯</samp>
@@ -43,7 +45,7 @@ I’m currently exploring new technologies and working on side projects. I'm pas
  <a href="https://www.netlify.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="30" height="30"/></a>
  <a href="https://www.tailwindcss.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30"/></a>
  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/></a>
- <a href="https://wordpress.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="30" height="30"/></a> <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="30" height="30"/></a> </p>
+ <a href="https://wordpress.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="30" height="30"/></a> <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="30" height="30"/></a>
   <a href="https://ethereum.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="30" height="30"/></a>
 </p>
 
