@@ -2,7 +2,7 @@
 
 ![GITHUB banner SMALL](https://user-images.githubusercontent.com/46662771/173787262-fe22d912-c99e-4ea3-94b7-6cbc78e8906a.jpg)
 
-I’m currently exploring new technologies and working on side projects. I'm passionate about working on and contributing to **Open Source Projects**. Aside this, I spent time doing fun stuffs like listening to music or podcast, playing indoor games, watching random online videos, visiting new places or learning a new language on Duolingo.
+I’m currently exploring new technologies and working on side projects. I'm passionate about working on and contributing to **Open Source Projects**. Aside this, I spend time doing fun stuffs like listening to music or podcast, playing indoor games, watching random online videos, visiting new places or learning a new language on Duolingo.
 
 <samp>Variety is the spice of life💯</samp>
 
