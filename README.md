@@ -2,7 +2,7 @@
 
 ![GITHUB banner SMALL](https://user-images.githubusercontent.com/46662771/173787262-fe22d912-c99e-4ea3-94b7-6cbc78e8906a.jpg)
 
-I’m currently exploring new technologies and working on side projects. I'm passionate about working on and contributing to **Open Source Projects**. Aside this, I spend time doing fun stuffs like listening to music or podcast, playing indoor games, watching random online videos, visiting new places or learning a new language on Duolingo.
+I’m currently exploring new technologies, working on side projects, and contributing to **Open Source Projects**.  Aside from this, I spend time doing fun kinds of stuff like listening to music or podcast, playing indoor games, watching random online videos, visiting new places, or learning a new language on Duolingo.
 
 <samp>Variety is the spice of life💯</samp>
 
@@ -49,6 +49,8 @@ I’m currently exploring new technologies and working on side projects. I'm pas
   <a href="https://ethereum.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="30" height="30"/></a>
 </p>
 
+<h3 align="left">✨ Github Stats</h3>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=frankiefab100&show_icons=true" alt="frankiefab100" /></p>
 
+<h3 align="left">🌱 Support</h3>
 <a href="https://www.buymeacoffee.com/frankiefab100" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
