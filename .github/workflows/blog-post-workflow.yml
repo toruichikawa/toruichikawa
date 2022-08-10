@@ -11,4 +11,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://frankiefab100.hashnode.dev/rss.xml,https://medium.com/feed/@frankiefab100"
+          feed_list: "https://frankiefab100.hashnode.dev/rss.xml,https://medium.com/feed/@frankiefab100,https://dev.to/feed/https://dev.to/frankiefab100"
