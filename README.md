@@ -9,8 +9,7 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [First timers’ Practical Guide to Open Source Contribution](https://medium.com/@frankiefab100/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79?source=rss-209f88d0d0d1------2)
-- [My Personal goals and expectations at HNG 8.0 Internship.](https://medium.com/@frankiefab100/my-personal-goals-and-expectations-at-hng-8-0-internship-f20904ac9146?source=rss-209f88d0d0d1------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
