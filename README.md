@@ -9,10 +9,7 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web 3.0 and the evolution of the Internet](https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk)
-- [First timers’ Practical Guide to Open Source Contribution](https://medium.com/@frankiefab100/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79?source=rss-209f88d0d0d1------2)
-- [My experience as a participant of Open Source Challenge by OSCA](https://dev.to/frankiefab100/my-experience-as-a-participant-of-open-source-challenge-by-osca-h0n)
-- [My Personal goals and expectations at HNG 8.0 Internship.](https://medium.com/@frankiefab100/my-personal-goals-and-expectations-at-hng-8-0-internship-f20904ac9146?source=rss-209f88d0d0d1------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
