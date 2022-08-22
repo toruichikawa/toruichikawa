@@ -9,7 +9,7 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What Inspired Me To Become A  Developer](https://frankiefab.hashnode.dev/what-inspired-me-to-become-a-developer)
+- [What Inspired Me To Be A  Developer](https://frankiefab.hashnode.dev/what-inspired-me-to-be-a-developer)
 - [How to build a star rating using useState Hook](https://frankiefab.hashnode.dev/how-to-build-a-star-rating-using-usestate-hook)
 - [Learn Blockchain Development By Playing Games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
 - [Understanding Blockchain Explorers](https://frankiefab.hashnode.dev/understanding-blockchain-explorers)
