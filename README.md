@@ -6,7 +6,7 @@ I’m currently exploring new technologies, working on side projects, and contri
 
 <samp>Variety is the spice of life💯</samp>
 
-<a href="https://app.daily.dev/frankiefab100"><img src="https://github.com/frankiefab100/frankiefab100/blob/master/devcard.svg" width="300" alt="Franklin Ohaegbulam's Dev Card"/></a>
+<a href="https://app.daily.dev/frankiefab100"><img src="https://github.com/frankiefab100/frankiefab100/blob/main/devcard.svg" width="200" alt="Franklin Ohaegbulam's Dev Card"/></a>
 
 ### 📒 Latest Blog posts
 
