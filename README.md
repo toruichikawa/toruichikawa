@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Achieve Effective Open Source Collaboration](https://frankiefab.hashnode.dev/how-to-achieve-effective-open-source-collaboration)
 - [Internet of Things &lpar;IoT&rpar;: A Revolutionary Technology To Our Social Problems.](https://frankiefab.hashnode.dev/internet-of-things-iot-a-revolutionary-technology-to-our-social-problems)
 - [Best tools and resources for self-taught developers](https://frankiefab.hashnode.dev/best-tools-and-resources-for-self-taught-developers)
 - [What Inspired Me To Be A  Developer](https://frankiefab.hashnode.dev/what-inspired-me-to-be-a-developer)
-- [How to build a star rating using useState Hook](https://frankiefab.hashnode.dev/how-to-build-a-star-rating-using-usestate-hook)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
