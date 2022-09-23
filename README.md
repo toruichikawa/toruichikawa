@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Achieve Effective Open Source Collaboration](https://frankiefab.hashnode.dev/how-to-achieve-effective-open-source-collaboration)
-- [Internet of Things &lpar;IoT&rpar;: A Revolutionary Technology To Our Social Problems.](https://frankiefab.hashnode.dev/internet-of-things-iot-a-revolutionary-technology-to-our-social-problems)
-- [Best tools and resources for self-taught developers](https://frankiefab.hashnode.dev/best-tools-and-resources-for-self-taught-developers)
-- [What Inspired Me To Be A  Developer](https://frankiefab.hashnode.dev/what-inspired-me-to-be-a-developer)
+- [Web 3.0 and the evolution of the Internet](https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk)
+- [First timers’ Practical Guide to Open Source Contribution](https://frankiefab100.medium.com/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79?source=rss-209f88d0d0d1------2)
+- [My experience as a participant of Open Source Challenge by OSCA](https://dev.to/frankiefab100/my-experience-as-a-participant-of-open-source-challenge-by-osca-h0n)
+- [My Personal goals and expectations at HNG 8.0 Internship.](https://frankiefab100.medium.com/my-personal-goals-and-expectations-at-hng-8-0-internship-f20904ac9146?source=rss-209f88d0d0d1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
