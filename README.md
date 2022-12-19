@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First timers’ Practical Guide to Open Source Contribution](https://frankiefab.hashnode.dev/first-timers-practical-guide-to-open-source-contribution)
 - [Web Optimization: An Overview of Search Engine Optimization &lpar;SEO&rpar;](https://frankiefab.hashnode.dev/web-optimization-an-overview-of-search-engine-optimization-seo)
 - [Introduction to Blockchain Wallet](https://frankiefab.hashnode.dev/introduction-to-blockchain-wallet)
 - [5+ Platforms to Find Beginner Friendly Open Source Projects](https://frankiefab.hashnode.dev/5-platforms-to-find-beginner-friendly-open-source-projects)
-- [How To Achieve Effective Open Source Collaboration](https://frankiefab.hashnode.dev/how-to-achieve-effective-open-source-collaboration)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
