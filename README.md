@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide To Web3 Domain Naming Services](https://frankiefab.hashnode.dev/a-guide-to-web3-domain-naming-services)
 - [What is ReFi? Regenerative Finance Explained](https://frankiefab.hashnode.dev/what-is-refi-regenerative-finance-explained)
 - [First timers’ Practical Guide to Open Source Contribution](https://frankiefab.hashnode.dev/first-timers-practical-guide-to-open-source-contribution)
 - [Web Optimization: An Overview of Search Engine Optimization &lpar;SEO&rpar;](https://frankiefab.hashnode.dev/web-optimization-an-overview-of-search-engine-optimization-seo)
+- [Introduction to Blockchain Wallet](https://frankiefab.hashnode.dev/introduction-to-blockchain-wallet)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
