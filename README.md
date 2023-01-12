@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Tip Calculator With HTML, CSS and JavaScript](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript)
 - [DevRetro 2022: My Year In Review](https://frankiefab.hashnode.dev/devretro-2022-my-year-in-review)
 - [20 Web3 Developer Communities You Should Join In 2023](https://frankiefab.hashnode.dev/20-web3-developer-communities-you-should-join-in-2023)
 - [How To Setup Metamask Account and Add Custom Blockchain Networks](https://frankiefab.hashnode.dev/how-to-setup-metamask-account-and-add-custom-blockchain-networks)
-- [A Guide To Web3 Domain Naming Services](https://frankiefab.hashnode.dev/a-guide-to-web3-domain-naming-services)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
