@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Temperature Converter App using HTML, CSS, and JavaScript](https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98?source=rss-209f88d0d0d1------2)
 - [10 Free Notion Templates You Need To Be Using](https://frankiefab.hashnode.dev/10-free-notion-templates-you-should-be-using)
 - [How to Build a Tip Calculator With HTML, CSS and JavaScript](https://frankiefab.hashnode.dev/how-to-build-a-tip-calculator-with-html-css-and-javascript)
 - [DevRetro 2022: My Year In Review](https://frankiefab.hashnode.dev/devretro-2022-my-year-in-review)
-- [20 Web3 Developer Communities You Should Join In 2023](https://frankiefab.hashnode.dev/20-web3-developer-communities-you-should-join-in-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
