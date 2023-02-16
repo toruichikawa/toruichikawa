@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Science: What You Need to Know About Decentralized Science &lpar;DeSci&rpar;](https://frankiefab.hashnode.dev/the-future-of-science-what-you-need-to-know-about-decentralized-science-desci)
 - [Http Request Exception Encountered [SOLVED]](https://frankiefab100.medium.com/http-request-exception-encountered-solved-a3917ce0ba56?source=rss-209f88d0d0d1------2)
 - [Http Request Exception Encountered [SOLVED]](https://dev.to/frankiefab100/http-request-exception-encountered-solved-3fki)
 - [30 Youtube Channels To Learn Blockchain Development](https://frankiefab.hashnode.dev/30-youtube-channels-to-learn-blockchain-development)
-- [Building a Temperature Converter App using HTML, CSS, and JavaScript](https://frankiefab.hashnode.dev/building-a-temperature-converter-app-using-html-css-and-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
