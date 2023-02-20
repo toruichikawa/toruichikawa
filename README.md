@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First timers’ Practical Guide to Open Source Contribution](https://dev.to/frankiefab100/first-timers-practical-guide-to-open-source-contribution-3c7l)
+- [Web Optimization: An Overview of Search Engine Optimization &lpar;SEO&rpar;](https://frankiefab100.medium.com/web-optimization-an-overview-of-search-engine-optimization-seo-6fc8f3db9784?source=rss-209f88d0d0d1------2)
 - [What Inspired Me To Be A Developer](https://frankiefab100.medium.com/what-inspired-me-to-be-a-developer-4060f1c5805?source=rss-209f88d0d0d1------2)
 - [What Inspired Me To Be A Developer](https://dev.to/frankiefab100/what-inspired-me-to-be-a-developer-4ad5)
-- [10 Reasons You Should Contribute To Open Source Projects](https://frankiefab100.medium.com/10-reasons-you-should-contribute-to-open-source-projects-ec39f75d6b8?source=rss-209f88d0d0d1------2)
-- [10 Reasons You Should Contribute To Open Source Projects](https://dev.to/frankiefab100/10-reasons-you-should-contribute-to-open-source-projects-59mb)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
