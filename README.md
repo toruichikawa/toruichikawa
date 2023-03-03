@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Blockchain Development By Playing Games](https://frankiefab100.medium.com/learn-blockchain-development-by-playing-games-d142d79248b9?source=rss-209f88d0d0d1------2)
+- [Learn Blockchain Development By Playing Games](https://dev.to/frankiefab100/learn-blockchain-development-by-playing-games-392)
 - [Best Tools and Resources For Self-Taught Developers](https://frankiefab100.medium.com/best-tools-and-resources-for-self-taught-developers-f3e1aa15d65f?source=rss-209f88d0d0d1------2)
 - [Best Tools and Resources Best Tools and Resources For Self-Taught Developers](https://dev.to/frankiefab100/best-tools-and-resources-best-tools-and-resources-for-self-taught-developers-52mf)
-- [How To Achieve Effective Open Source Collaboration](https://frankiefab100.medium.com/how-to-achieve-effective-open-source-collaboration-e526e94821a1?source=rss-209f88d0d0d1------2)
-- [How To Achieve Effective Open Source Collaboration](https://dev.to/frankiefab100/how-to-achieve-effective-open-source-collaboration-36jb)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
