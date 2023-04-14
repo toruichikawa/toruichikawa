@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Today, climate change is one of the most crucial challenges that humanity has ever faced, and lots…](https://frankiefab100.medium.com/today-climate-change-is-one-of-the-most-crucial-challenges-that-humanity-has-ever-faced-and-lots-ac1741301d18?source=rss-209f88d0d0d1------2)
 - [What is ReFi? Regenerative Finance Explained](https://dev.to/frankiefab100/what-is-refi-regenerative-finance-explained-4d1l)
+- [Internet of Things &lpar;IoT&rpar;: A Revolutionary Technology To Our Social Problems](https://frankiefab100.medium.com/internet-of-things-iot-a-revolutionary-technology-to-our-social-problems-1210df1ccfdb?source=rss-209f88d0d0d1------2)
 - [Internet of Things &lpar;IoT&rpar;: A Revolutionary Technology To Our Social Problems](https://dev.to/frankiefab100/internet-of-things-iot-a-revolutionary-technology-to-our-social-problems-3c3p)
-- [Learn Blockchain Development By Playing Games](https://dev.to/frankiefab100/learn-blockchain-development-by-playing-games-392)
-- [Best Tools and Resources Best Tools and Resources For Self-Taught Developers](https://dev.to/frankiefab100/best-tools-and-resources-best-tools-and-resources-for-self-taught-developers-52mf)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
