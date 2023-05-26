@@ -12,9 +12,9 @@ I’m currently exploring new technologies, working on side projects, and contri
 
 <!-- BLOG-POST-LIST:START -->
 - [Token Standards: Everything You Need To Know](https://frankiefab.hashnode.dev/token-standards-everything-you-need-to-know)
+- [Understanding Blockchain Explorers](https://frankiefab100.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
 - [Understanding Blockchain Explorers](https://dev.to/frankiefab100/understanding-blockchain-explorers-5dkj)
-- [Introduction to Blockchain Wallet](https://dev.to/frankiefab100/introduction-to-blockchain-wallet-22ip)
-- [What is ReFi? Regenerative Finance Explained](https://dev.to/frankiefab100/what-is-refi-regenerative-finance-explained-4d1l)
+- [What is a blockchain wallet?](https://frankiefab100.medium.com/what-is-a-blockchain-wallet-6e33966b7efa?source=rss-209f88d0d0d1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
