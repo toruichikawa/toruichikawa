@@ -13,8 +13,8 @@ I’m currently exploring new technologies, working on side projects, and contri
 <!-- BLOG-POST-LIST:START -->
 - [Why Zero Knowledge Proofs &lpar;ZKPs&rpar; is a Game Changer for Self-Sovereign Identity](https://frankiefab.hashnode.dev/why-zero-knowledge-proofs-zkps-is-a-game-changer-for-self-sovereign-identity)
 - [Token Standards: Everything You Need To Know](https://frankiefab.hashnode.dev/token-standards-everything-you-need-to-know)
+- [Understanding Blockchain Explorers](https://frankiefab100.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
 - [Understanding Blockchain Explorers](https://dev.to/frankiefab100/understanding-blockchain-explorers-5dkj)
-- [Introduction to Blockchain Wallet](https://dev.to/frankiefab100/introduction-to-blockchain-wallet-22ip)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
