@@ -11,10 +11,10 @@ I’m currently exploring new technologies, working on side projects, and contri
 ### 📒 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to NFTs: An Introduction to Non-Fungible Tokens](https://frankiefab.hashnode.dev/beginners-guide-to-nfts-an-introduction-to-non-fungible-tokens)
 - [Why Zero Knowledge Proofs &lpar;ZKPs&rpar; is a Game Changer for Self-Sovereign Identity](https://frankiefab.hashnode.dev/why-zero-knowledge-proofs-zkps-is-a-game-changer-for-self-sovereign-identity)
 - [Token Standards: Everything You Need To Know](https://frankiefab.hashnode.dev/token-standards-everything-you-need-to-know)
 - [Understanding Blockchain Explorers](https://frankiefab100.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
-- [Understanding Blockchain Explorers](https://dev.to/frankiefab100/understanding-blockchain-explorers-5dkj)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
