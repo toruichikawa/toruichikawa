@@ -10,5 +10,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
+          max_post_count: "6"
           feed_list: "https://frankiefab.hashnode.dev/rss.xml,https://medium.com/feed/@frankiefab100,https://dev.to/feed/frankiefab100"
