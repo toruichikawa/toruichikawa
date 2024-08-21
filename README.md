@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=toruichikawa&label=Profile%20views&color=0e75b6&style=flat" alt="toruichikawa" /> </p>
 
 ![GITHUB banner SMALL](https://user-images.githubusercontent.com/46662771/173787262-fe22d912-c99e-4ea3-94b7-6cbc78e8906a.jpg)
 
@@ -6,7 +6,6 @@ I’m currently exploring new technologies, working on side projects, and contri
 
 <samp>Variety is the spice of life💯</samp>
 
-<a href="https://app.daily.dev/frankiefab100"><img src="https://github.com/frankiefab100/frankiefab100/blob/main/devcard.svg" width="200" alt="Franklin Ohaegbulam's Dev Card"/></a>
 
 ### 📒 Latest Blog posts
 
@@ -16,7 +15,7 @@ I’m currently exploring new technologies, working on side projects, and contri
 - [Beginner&#39;s Guide to NFTs: An Introduction to Non-Fungible Tokens](https://frankiefab.hashnode.dev/beginners-guide-to-nfts-an-introduction-to-non-fungible-tokens)
 - [Why Zero Knowledge Proofs &lpar;ZKPs&rpar; is a Game Changer for Self-Sovereign Identity](https://frankiefab.hashnode.dev/why-zero-knowledge-proofs-zkps-is-a-game-changer-for-self-sovereign-identity)
 - [Token Standards: Everything You Need To Know](https://frankiefab.hashnode.dev/token-standards-everything-you-need-to-know)
-- [Understanding Blockchain Explorers](https://frankiefab100.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
+- [Understanding Blockchain Explorers](https://toruichikawa.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles...](https://frankiefab.hashnode.dev)
@@ -25,16 +24,16 @@ I’m currently exploring new technologies, working on side projects, and contri
 
 <h3 align="left">🤝🏻 Let's Connect</h3>
 <p align="left">
- <a href="https://frankiefab.netlify.app" target="_blank"><img  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="frankiefab100 personal website" height="30" width="30" /></a>
-<a href="https://twitter.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="frankiefab100" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@frankiefab100" height="30" width="30" /></a>
- <a href="https://dev.to/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@frankiefab100" height="30" width="30" /></a>
- <a href="https://codepen.io/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@frankiefab100" height="30" width="30" /></a>
-<a href="https://instagram.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@frankiefab100" height="30" width="30" /></a>
- <a href="https://facebook.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@frankiefab100" height="30" width="30" /></a>
-<a href="https://dribbble.com/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="frankiefab100" height="30" width="30" /></a>
-<a href="https://www.behance.net/frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@frankiefab100" height="30" width="30" /></a>
-<a href="https://medium.com/@frankiefab100" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@frankiefab100" height="30" width="30" /></a>
+ <a href="https://frankiefab.netlify.app" target="_blank"><img  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="toruichikawa personal website" height="30" width="30" /></a>
+<a href="https://twitter.com/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="toruichikawa" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@toruichikawa" height="30" width="30" /></a>
+ <a href="https://dev.to/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@toruichikawa" height="30" width="30" /></a>
+ <a href="https://codepen.io/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@toruichikawa" height="30" width="30" /></a>
+<a href="https://instagram.com/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@toruichikawa" height="30" width="30" /></a>
+ <a href="https://facebook.com/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@toruichikawa" height="30" width="30" /></a>
+<a href="https://dribbble.com/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="toruichikawa" height="30" width="30" /></a>
+<a href="https://www.behance.net/toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@toruichikawa" height="30" width="30" /></a>
+<a href="https://medium.com/@toruichikawa" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@toruichikawa" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">⚡ Technologies and Tools</h3>
@@ -56,7 +55,7 @@ I’m currently exploring new technologies, working on side projects, and contri
 </p>
 
 <h3 align="left">✨ Github Stats</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=frankiefab100&show_icons=true" alt="frankiefab100" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=toruichikawa&show_icons=true" alt="toruichikawa" /></p>
 
 <h3 align="left">🌱 Support</h3>
-<a href="https://www.buymeacoffee.com/frankiefab100" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/toruichikawa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
